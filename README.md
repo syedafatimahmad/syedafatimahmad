@@ -1,8 +1,4 @@
-Hi, I'm Syeda Fatima Ahmad 👋
-
 Full-Stack Developer | BS Software Engineering Student
-
-I'm a Software Engineering student at Virtual University of Pakistan with experience building full-stack web applications using the MERN stack. I enjoy creating responsive, scalable applications and continuously improving my development skills.
 
 💻 Tech Stack
 
